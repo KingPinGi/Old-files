@@ -1,8 +1,6 @@
 # Html css old projects
 
-This is a capstone project that focuses on developing a website for an upcoming forex trading symposium.
-<br><br><img src="assets/img/home1.jpg"><br>
-<br><img src="assets/img/home2.jpg"><br>
+This is a capstone project that focuses on developing a website for an upcoming forex trading fest.
 
 
 ## Built with
